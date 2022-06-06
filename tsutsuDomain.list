@@ -4,5 +4,6 @@ DOMAIN-SUFFIX,tsutsu.cloud
 DOMAIN-SUFFIX,seto.top
 DOMAIN-SUFFIX,mizu.club
 DOMAIN-SUFFIX,tsutsu.one
+DOMAIN-SUFFIX,eeooc.com
 
 # つつ所有机器都做了国内网络优化,因此独立出一个属于つつ的规则list
